@@ -1,0 +1,6 @@
+[submodule "imgui"]
+	path = imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "DirectX-Graphics-Samples"]
+	path = DirectX-Graphics-Samples
+	url = https://github.com/microsoft/DirectX-Graphics-Samples.git
